@@ -35,7 +35,7 @@ The project includes a Gradio web interface that allows users to record or uploa
 
 The project uses a custom dataset of Tamil speech recordings with corresponding phoneme annotations.
 
-**Google Drive Dataset:** [Access the Dataset](PASTE_YOUR_DATASET_DRIVE_LINK_HERE)
+**Google Drive Dataset:** https://drive.google.com/drive/folders/1UVMoYealSQO7pojrhtXjfnUYFCqNLe6Z?usp=sharing
 
 ## Limitations
 
