@@ -51,3 +51,6 @@ The model's validation performance is limited, so its predictions may not always
 ## Author
 
 Developed as an academic project on Tamil phoneme classification and pronunciation feedback.
+Eraianbu D M
+GitHub: https://github.com/eraianbudm
+LinkedIn: https://www.linkedin.com/in/eraianbu-dm
